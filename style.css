@@ -1,0 +1,19 @@
+h1 {
+  border: 15px red solid;
+  padding: 25px;
+  margin: 50px;
+  text-align: center;
+
+}
+
+h2 {
+  border: 15px red solid;
+  padding: 25px;
+}
+
+.column {
+  width: 31%;
+  float: left;
+  padding: 0 1%;
+  text-align: justify;
+}
